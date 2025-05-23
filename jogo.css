@@ -1,4 +1,4 @@
 .body {margin: 0; padding: 0;} 
-.tela {background-color: #8a811d; height: 100vh; text-align: center;}
+.tela {background-color: #8a811d; height: 200vh; text-align: center;}
 .logoquiz {width: 75%; margin: 0 auto; align-items: center;}
 .iniciar {width: 130px; height: 60px; margin-top:50px; background-color: yellow; border: 3px solid blue; font-size: 14px; font-weight: bold; font-style: italic; text-align: center; cursor: pointer;}
