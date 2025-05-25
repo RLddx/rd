@@ -19,5 +19,14 @@
 }
 
 .botaoiniciar {
-   
+   width: 150px;
+   height: 60px;
+   font-size: 30;
+   font-style: italic;
+   font-weight: bold;
+   background: yellow;
+   margin: 0px auto;
+   margin-top: 50px;
+   text-align: center;
+   border: 5px solid blue;
 }
