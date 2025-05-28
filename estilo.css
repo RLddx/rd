@@ -13,7 +13,7 @@
 }
 
 .logoquiz {
-   width: 75%;
+   width: 40%;
    margin: 0 auto;
    
 }
@@ -29,4 +29,5 @@
    margin-top: 50px;
    text-align: center;
    border: 5px solid blue;
+   padding: 5px 10px 5px 10px;
 }
