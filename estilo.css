@@ -50,3 +50,16 @@
    margin-top: 50px;
    background: rgb(129, 129, 129);
 }
+
+.botao-responder {
+   background: white;
+   font-size: 30px;
+   padding: 30px 20px 30px 20px;
+   margin-top: 30px;
+   
+}
+
+.botao-responder:active {
+   background: blue;
+   font-size: 40px;
+}
